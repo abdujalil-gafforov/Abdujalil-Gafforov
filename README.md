@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdujalil048" alt="abdujalil048" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abdujalil048" target="blank"><img src="https://img.shields.io/twitter/follow/abdujalil048?logo=twitter&style=for-the-badge" alt="abdujalil048" /></a> </p>
-
+<!-- <p align="left"> <a href="https://twitter.com/abdujalil048" target="blank"><img src="https://img.shields.io/twitter/follow/abdujalil048?logo=twitter&style=for-the-badge" alt="abdujalil048" /></a> </p>
+-->
 - 🌱 I’m currently learning **new skills and improving the old ones**
 
 - 📫 How to reach me **abdujalilgofforov048@gmail.com**
