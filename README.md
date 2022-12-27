@@ -13,6 +13,9 @@ You can click the Preview link to take a look at your changes.
 # Hello, I'm Abdujalil G'afforov
 [![](https://visitcount.itsvg.in/api?id=abdujalil048&icon=1&color=1)](https://visitcount.itsvg.in) [![wakatime](https://wakatime.com/badge/user/a1596580-acb6-442a-a01c-a1745777f56e.svg)](https://wakatime.com/@a1596580-acb6-442a-a01c-a1745777f56e)
 
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+
+
 - 👋 What's up guys, I'm happy you to here
 - 💻 I know Python, PostgreSQL, Django, Aiogram, Docker, Linux...   
 - 🐍 I’m currently learning new skills and improving the old ones
@@ -21,7 +24,6 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📝 I regularly write articles on [http://ganiyev.uz/blog](https://ganiyev.ga/blog) -->
 <!-- - 📄 Know about my experiences [http://ganiyev.uz/resume](https://ganiyev.ga/resume) -->
 <!-- - 🌐 My personal website is here [http://ganiyev.uz/](https://ganiyev.ga) -->
-
 <!-- - ⚡ Fun fact :- `One day you'll look back and realize that you worried too much about things that don't really matter.` -->
 
 
