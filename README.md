@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
  
 # Hello, I'm Abdujalil G'afforov
-[![wakatime](https://wakatime.com/badge/user/a1596580-acb6-442a-a01c-a1745777f56e.svg)](https://wakatime.com/@a1596580-acb6-442a-a01c-a1745777f56e)
+[![](https://visitcount.itsvg.in/api?id=abdujalil048&icon=1&color=1)](https://visitcount.itsvg.in) [![wakatime](https://wakatime.com/badge/user/a1596580-acb6-442a-a01c-a1745777f56e.svg)](https://wakatime.com/@a1596580-acb6-442a-a01c-a1745777f56e)
 
 - 👋 What's up guys, I'm happy you to here
 - 💻 I know Python, PostgreSQL, Django, Aiogram, Docker, Linux...   
