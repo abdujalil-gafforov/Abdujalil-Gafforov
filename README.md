@@ -12,10 +12,9 @@ You can click the Preview link to take a look at your changes.
  
 # Hello, I'm Abdujalil G'afforov
 
-<img src="https://komarev.com/ghpvc/?username=abdujalil048&label=Profile%20views&color=0e75b6&style=flat" alt="abdujalil048">
 <img width="49%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
-[![](https://visitcount.itsvg.in/api?id=abdujalil048&icon=1&color=1)](https://visitcount.itsvg.in) [![wakatime](https://wakatime.com/badge/user/a1596580-acb6-442a-a01c-a1745777f56e.svg)](https://wakatime.com/@a1596580-acb6-442a-a01c-a1745777f56e)
+[![](https://komarev.com/ghpvc/?username=abdujalil048&label=Profile%20views&color=0e75b6&style=flat)]() [![wakatime](https://wakatime.com/badge/user/a1596580-acb6-442a-a01c-a1745777f56e.svg)](https://wakatime.com/@a1596580-acb6-442a-a01c-a1745777f56e)
 
 - 👋 What's up guys, I'm happy you to here
 - 💻 I know Python, PostgreSQL, Django, Aiogram, Docker, Linux...   
