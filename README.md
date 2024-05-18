@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 [![](https://komarev.com/ghpvc/?username=abdujalil048&label=Profile%20views&color=0e75b6&style=flat)]() [![wakatime](https://wakatime.com/badge/user/a1596580-acb6-442a-a01c-a1745777f56e.svg)](https://wakatime.com/@a1596580-acb6-442a-a01c-a1745777f56e)
 
 - 👋 What's up guys, I'm happy you to here
-- 💻 I know Python, PostgreSQL, Django, Aiogram, Linux...   
+- 💻 I know Python, PostgreSQL, Django, DRF, Aiogram, Linux...   
 - 🐍 I’m currently learning new skills and improving the old ones
 - 💬 I'm 18-years old developer from Uzbekistan/Kokand
 <!-- - 👨‍💻 All of my projects are available at [url name](url) -->
