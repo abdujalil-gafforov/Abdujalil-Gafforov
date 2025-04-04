@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 - 👋 What's up guys, I'm happy you to here
 - 💻 I know Python, PostgreSQL, Django, DRF, Aiogram, Linux...   
 - 🐍 I’m currently learning new skills and improving the old ones
-- 💬 I'm 18-years old developer from Uzbekistan/Kokand
+- 💬 I'm 19-years old developer from Uzbekistan/Kokand
 <!-- - 👨‍💻 All of my projects are available at [url name](url) -->
 <!-- - 📝 I regularly write articles on [http://ganiyev.uz/blog](https://ganiyev.ga/blog) -->
 <!-- - 📄 Know about my experiences [http://ganiyev.uz/resume](https://ganiyev.ga/resume) -->
