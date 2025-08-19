@@ -10,7 +10,7 @@ Abdujalil048/Abdujalil048 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
  
-# Hello, I'm Abdujalil G'afforov
+# Hello, I'm Abdujalil G'opporov
 
 <img width="49%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
